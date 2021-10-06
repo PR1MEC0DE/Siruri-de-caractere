@@ -1,0 +1,8 @@
+print("Textul dumneavoastra este:")
+a = str(input())
+print("Vocale:")
+print(("a - "), a.count("a") )
+print(("e - "), a.count("e") )
+print(("i - "), a.count("i") )
+print(("o - "), a.count("o") )
+print(("u - "), a.count("u") )
