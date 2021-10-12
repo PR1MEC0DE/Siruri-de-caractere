@@ -1,3 +1,10 @@
+#Realizați un program care citește de la tastatură un șir de caractere și afișează următoarele informații:
+
+#a) lungimea șirului
+#b) dacă există vreo apariție a consoanei "x"
+#c) dacă șirul începe cu "a" sau "A"
+#d) daca șirul se termină cu "."
+
 x = str(input())
 x1 = len(x)
 print("Lungimea șirului este:", x1)
